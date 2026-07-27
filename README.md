@@ -9,15 +9,6 @@ An end-to-end vision-based driver monitoring pipeline designed to detect physiol
 
 ---
 
-## 📌 Table of Contents
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Dataset Architecture](#dataset-architecture)
-- [Model Architecture & Methodology](#model-architecture--methodology)
-- [Decision Fusion Logic](#decision-fusion-logic)
-- [Fatigue Progression Analysis](#fatigue-progression-analysis)
-- [Installation & Usage](#installation--usage)
-- [Results & Performance](#results--performance)
 
 ---
 
