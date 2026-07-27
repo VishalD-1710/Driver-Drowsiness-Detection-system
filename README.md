@@ -1,3 +1,7 @@
+<img width="1200" height="600" alt="fatigue_progression_curve" src="https://github.com/user-attachments/assets/810d622b-8ef2-448e-968f-4b52f3a5ae1d" />
+<img width="750" height="600" alt="confusion_matrix_MobileNetV2" src="https://github.com/user-attachments/assets/a9a2ae30-faff-4686-9a47-41aaf76c4d33" />
+<img width="750" height="600" alt="confusion_matrix_CustomCNN" src="https://github.com/user-attachments/assets/1fa3a929-bf50-4e36-b9fb-08346f810568" />
+<img width="1950" height="675" alt="accuracy_loss_comparison" src="https://github.com/user-attachments/assets/7019fbb5-116c-4b54-973b-1f64f6358bfe" />
 # Driver-Drowsiness-Detection-system
 Markdown# Driver Drowsiness Detection System Using Eye Closure & Yawning Analysis
 An end-to-end vision-based driver monitoring pipeline designed to detect physiological signs of fatigue (eye closure and yawning) and map them into actionable 3-stage driver fatigue levels.[Driver_Drowsiness_Detection.ipynb](https://github.com/user-attachments/files/30425114/Driver_Drowsiness_Detection.ipynb)
